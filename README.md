@@ -1,2 +1,2 @@
 # Arcadia
-design files comming soon 
+design files coming soon 
